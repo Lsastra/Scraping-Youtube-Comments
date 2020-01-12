@@ -1,0 +1,9 @@
+Package               Version 
+--------------------- --------
+regex                 2019.11.1 
+selenium              3.141.0
+tqdm                  4.36.1
+pandas                0.25.2
+
+
+Also install ChromeDriver ---> https://chromedriver.chromium.org/
